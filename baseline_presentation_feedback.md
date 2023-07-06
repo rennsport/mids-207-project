@@ -15,3 +15,5 @@ Model evaluation: looks good!
 Anything else to recommend? If you can, try to use less text for your slides. Rely more on images/figures
 
 Well done so far team!
+
+Note for myself: I discussed the project during OH and provided feedback there as well (team: that's why less feedback here).
