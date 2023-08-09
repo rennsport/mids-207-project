@@ -11,7 +11,7 @@ Final Notebooks:
 2. [Baseline Model & Decision Tree/Random Forest](Final%20Files/2.%20Baseline_DecisionTree_RandomForest.ipynb)
 3. [FFNN](Final%20Files/3.%20FFNN.ipynb)
 4. [FFNN with Keras Tuner](Final%20Files/4.%20FFNN-keras_tuner.ipynb)
-5. [Fairness](Final%20Files/5.%20Fairness%20Evaluation.ipynb)
+5. [Fairness Evaluation](Final%20Files/5.%20Fairness%20Evaluation.ipynb)
 
 Final Presentation:
 1. [Final Presentation](Final%20Files/Final%20Presentation.pdf)
